@@ -14,7 +14,7 @@ namespace Demo.Model
         public string PatientName { get; set; } = string.Empty;
 
         [Required]
-        [MaxLength(15)]
+        [MaxLength(300)]
         public string PatientContact { get; set; } = string.Empty;
 
         [Required]
