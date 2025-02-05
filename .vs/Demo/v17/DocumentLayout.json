@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Oop_Practice\\Demo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|d:\\oop_practice\\demo\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|d:\\oop_practice\\demo\\demo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|solutionrelative:demo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|d:\\oop_practice\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|d:\\oop_practice\\demo\\demo\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|solutionrelative:demo\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|d:\\oop_practice\\demo\\demo\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|solutionrelative:demo\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|d:\\oop_practice\\demo\\demo\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B55C1B-AE6D-4ECE-9B77-7285171CFE35}|Demo\\Demo.csproj|solutionrelative:demo\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Oop_Practice\\Demo\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "D:\\Oop_Practice\\Demo\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:41:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Oop_Practice\\Demo\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo\\appsettings.json",
+              "ToolTip": "D:\\Oop_Practice\\Demo\\Demo\\appsettings.json",
+              "RelativeToolTip": "Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T14:41:14.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Oop_Practice\\Demo\\Demo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Oop_Practice\\Demo\\Demo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:33:44.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Oop_Practice\\Demo\\Demo\\Model\\Appointment.cs",
+              "RelativeDocumentMoniker": "Demo\\Model\\Appointment.cs",
+              "ToolTip": "D:\\Oop_Practice\\Demo\\Demo\\Model\\Appointment.cs",
+              "RelativeToolTip": "Demo\\Model\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:32:21.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Oop_Practice\\Demo\\Demo\\Model\\Doctor.cs",
+              "RelativeDocumentMoniker": "Demo\\Model\\Doctor.cs",
+              "ToolTip": "D:\\Oop_Practice\\Demo\\Demo\\Model\\Doctor.cs",
+              "RelativeToolTip": "Demo\\Model\\Doctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:31:35.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Oop_Practice\\Demo\\Demo\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Demo\\Model\\User.cs",
+              "ToolTip": "D:\\Oop_Practice\\Demo\\Demo\\Model\\User.cs",
+              "RelativeToolTip": "Demo\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:23:39.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
